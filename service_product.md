@@ -4,7 +4,7 @@
 #### Product Detail
 
 <details>
- <summary><code>GET</code>/api/v1/product<code> - (get product by variation id)</code></summary>
+ <summary><code>GET</code>/api/v1/product - <code>(get product by variation id)</code></summary>
 
 ##### Parameters
 
