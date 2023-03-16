@@ -46,16 +46,9 @@
 
 ##### Responses
 
-> | http code     | content-type                      | response                                                            |
-> |---------------|-----------------------------------|---------------------------------------------------------------------|
-> | `200`         | `text/plain;charset=UTF-8`        | ```json 
-{
-    "id" : "string, unique",
-    "name" : "string",
-    "price" : "long",
-    "quantity" : "integer"
-}
-```                                                         |
+> | http code     | content-type                      | response                                                                                      |
+> |---------------|-----------------------------------|-----------------------------------------------------------------------------------------------|
+> | `200`         | `text/plain;charset=UTF-8`        | ```{"id" : "string, unique", "name" : "string", "price" : "long", "quantity" : "integer"} ``` |
 
 ##### Example cURL
 
