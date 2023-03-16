@@ -1,221 +1,86 @@
 {
     "code": 200,
-    "status": "success",
-    "data": {
-        "brand": [
-            {
-                "id": 42,
-                "name": "Voucher iTunes",
-                "photo": "https://v2-crm.vcg.asia/uploads/brand/20210715202556product-brand.jpg",
-                "slug": "voucher-itunes"
-            },
-            {
-                "id": 43,
-                "name": "Voucher Lyto",
-                "photo": "https://v2-crm.vcg.asia/uploads/brand/20210715202401product-brand.png",
-                "slug": "voucher-lyto"
-            },
-            {
-                "id": 117,
-                "name": "Voucher Smile One",
-                "photo": "https://v2-crm.vcg.asia/uploads/brand/20210715192307product-brand.png",
-                "slug": "voucher-smile-one"
-            },
-            {
-                "id": 45,
-                "name": "Voucher UniPin",
-                "photo": "https://v2-crm.vcg.asia/uploads/brand/20210715201646product-brand.jpg",
-                "slug": "voucher-unipin"
-            }
-        ],
-        "category": [
-            {
-                "id": 3,
-                "name": "Voucher",
-                "slug": "voucher"
-            }
-        ],
-        "product": [
-            {
-                "id": 27990,
-                "name": "roblox w voucher",
-                "slug": "roblox-w-voucher"
-            },
-            {
-                "id": 28518,
-                "name": "Gold 1 bulan instant yes voucher",
-                "slug": "gold-1-bulan-instant-yes-voucher"
-            },
-            {
-                "id": 27991,
-                "name": "Youtube no voucher",
-                "slug": "youtube-no-voucher"
-            },
-            {
-                "id": 28595,
-                "name": "200 Poin kilat pake voucher",
-                "slug": "200-poin-kilat-pake-voucher"
-            },
-            {
-                "id": 28598,
-                "name": "6000 Coin instant no voucher",
-                "slug": "6000-coin-instant-no-voucher"
-            },
-            {
-                "id": 28599,
-                "name": "7000 Coin no instant voucher",
-                "slug": "7000-coin-no-instant-voucher"
-            },
-            {
-                "id": 28432,
-                "name": "125 Points With Voucher",
-                "slug": "125-points-with-voucher"
-            },
-            {
-                "id": 28596,
-                "name": "4000 Coin instant voucher",
-                "slug": "4000-coin-instant-voucher"
-            },
-            {
-                "id": 10084,
-                "name": "VOUCHER AXIS 3GB 15HARI ",
-                "slug": "voucher-axis-3gb-15hari"
-            },
-            {
-                "id": 28594,
-                "name": "300 Poin no kilat pake voucher",
-                "slug": "300-poin-no-kilat-pake-voucher"
-            }
-        ],
-        "product_master": [
-            {
-                "id": 779,
-                "name": "470 Vouchers",
-                "slug": "470-vouchers"
-            },
-            {
-                "id": 780,
-                "name": "950 Vouchers",
-                "slug": "950-vouchers"
-            },
-            {
-                "id": 781,
-                "name": "1430 Vouchers",
-                "slug": "1430-vouchers"
-            },
-            {
-                "id": 782,
-                "name": "2390 Vouchers",
-                "slug": "2390-vouchers"
-            },
-            {
-                "id": 783,
-                "name": "4800 Vouchers",
-                "slug": "4800-vouchers"
-            },
-            {
-                "id": 1361,
-                "name": "Voucher Carrefour 50.000",
-                "slug": "voucher-carrefour-50-000"
-            },
-            {
-                "id": 776,
-                "name": "40 Vouchers",
-                "slug": "40-vouchers"
-            },
-            {
-                "id": 777,
-                "name": "90 Vouchers",
-                "slug": "90-vouchers"
-            },
-            {
-                "id": 778,
-                "name": "230 Vouchers",
-                "slug": "230-vouchers"
-            }
-        ],
-        "store": [
-            {
-                "id": 694,
-                "name": "Bandar Voucher",
-                "photo": "https://v2-crm.vcg.asia/uploads/member/20210705212528memberphoto.png",
-                "slug": "bandar-voucher",
-                "store_id": "182",
-                "store_uuid": "06d291a01faa45f6849d1998586b5340",
-                "uuid": "f7c6a891016d40589471f4e843c1a92f"
-            },
-            {
-                "id": 127,
-                "name": "Denny Voucher",
-                "photo": "https://v2-crm.vcg.asia/uploads/member/20210705090355memberphoto.jpg",
-                "slug": "denny-voucher",
-                "store_id": "175",
-                "store_uuid": "f084cd4f7488418382bb7bb086a3340f",
-                "uuid": "755f139562ff4a3da33125ecce17132e"
-            },
-            {
-                "id": 7601,
-                "name": "GG Voucher",
-                "photo": "https://v2-crm.vcg.asia/uploads/member/20210822143205memberphoto.jpeg",
-                "slug": "gg-voucher",
-                "store_id": "563",
-                "store_uuid": "8de20339375a4f9ebc25cf332a67728b",
-                "uuid": "6706f323a03b4597b8cfa23915591243"
-            },
-            {
-                "id": 7853,
-                "name": "Sherly Voucher",
-                "photo": "https://v2-crm.vcg.asia/uploads/member/20210823125850memberphoto.jpg",
-                "slug": "sherly-voucher",
-                "store_id": "581",
-                "store_uuid": "557668dd9a6843a59a8ec50399920ae4",
-                "uuid": "1e02f4bff4fe42c4801c625a08c4c803"
-            },
-            {
-                "id": 2658,
-                "name": "Voucher diamonds",
-                "photo": "https://v2-crm.vcg.asia/uploads/member/20210716132050memberphoto.jpg",
-                "slug": "voucher-diamonds",
-                "store_id": "245",
-                "store_uuid": "94b7960c82a2486aac6cbbc6e0d00360",
-                "uuid": "d739535e9efd4b84b3d587cc7be6f4a8"
-            },
-            {
-                "id": 33,
-                "name": "Voucher Gaming",
-                "photo": "https://v2-crm.vcg.asia/uploads/member/20210511104949memberphoto.jpg",
-                "slug": "voucher-gaming",
-                "store_id": "18",
-                "store_uuid": "7aa4337fa4224c9999b17671a562c81c",
-                "uuid": "ef65d36119584bdaa576d027e175a77f"
-            },
-            {
-                "id": 809,
-                "name": "Voucherglonggong",
-                "photo": "https://v2-crm.vcg.asia/uploads/member/20210620085600memberphoto.png",
-                "slug": "voucherglonggong",
-                "store_id": "126",
-                "store_uuid": "90c9b17cd9054e8cbe4a8189776c481e",
-                "uuid": "2c34bff68a184c8bb8ecff895d5f1553"
-            },
-            {
-                "id": 2653,
-                "name": "Yann Voucher",
-                "photo": "https://v2-crm.vcg.asia/uploads/member/20210716120912memberphoto.jpg",
-                "slug": "yann-voucher",
-                "store_id": "243",
-                "store_uuid": "97b42bc86b42451d9f0378cc1df7729b",
-                "uuid": "559fe96a810e4172841ff29cb3947ede"
-            },
-            {
-                "id": 10176,
-                "name": "ZANSVOUCHER",
-                "photo": "https://v2-crm.vcg.asia/uploads/member/20210905163204memberphoto.jpg",
-                "slug": "zansvoucher",
-                "store_id": "746",
-                "store_uuid": "439a4ae29e804d6bb682ff2abb1f7e7c",
-                "uuid": "be233ba9faae4d52ad0c00e9b457834d"
-            }
-        ]
-    }
+    "data": [
+        {
+            "brand_description": "Steam",
+            "brand_icon": "https://v2-crm.vcg.asia/uploads/product/20210715205451product-brand.jpg",
+            "brand_id": "10",
+            "brand_name": "Steam",
+            "campaign_status": 0,
+            "category_description": "Jual voucher game online terlengkap 2021 untuk Android, IPhone atau PC. Harga termurah dan jaminan garansi dengan sistem rekber. Proses cepat dan mudah. Beli sekarang dan dapatkan promo menarik.",
+            "category_icon": "https://v2-crm.vcg.asia/uploads/product/20221010141344product-brand.png",
+            "category_id": "3",
+            "category_name": "Voucher",
+            "code": "",
+            "condition": "1",
+            "description": "<div>Cara Order</div><div>1. Cukup order dan selesaikan pembayaran,</div><div>2. Kode voucher dikirim via pesan Vcgamers/riwayat pembelian.</div><div>3. Redeem kode voucher.</div><div>4. Selesai.<br><br>VOUCHER FRESSH, NO KOMPLAINT</div><div><br></div><div>-Voucher fresh, tidak menerima complaint kode tidak sudah terpakai.</div><div>-Membeli berarti setujut.</div><div><br></div><div><br></div><div>Terima kasih.</div>",
+            "discount": "0.00",
+            "excerpt": "",
+            "height": "0.00",
+            "height_text": "0",
+            "id": 41,
+            "long": "0.00",
+            "long_text": "0",
+            "master_percentage": 0,
+            "master_price": "13000.00",
+            "master_price_text": "13000.00",
+            "member_code": "U2105100006",
+            "member_id": "37",
+            "min_order": "1.00",
+            "min_order_text": "1",
+            "name": "Voucher Steam Wallet IDR",
+            "point_discount": "0.00",
+            "preorder": "0",
+            "price": "10000.00",
+            "price_text": "10.000",
+            "product_image": [
+                "https://v2-crm.vcg.asia/uploads/product/20210511143936produk10.jpg"
+            ],
+            "product_rating": "111",
+            "service_time": "3329.0000",
+            "slug": "voucher-steam-wallet-idr",
+            "status": "Voucher Steam Wallet IDR",
+            "status_product_instant": "0",
+            "status_product_tenmin": "0",
+            "stock": "0.00",
+            "stock_text": "0",
+            "store_cover": "https://v2-crm.vcg.asia/uploads/member/20210511115126membercover.jpg",
+            "store_id": "37",
+            "store_moderation_note": "",
+            "store_name": "Gaming Shop",
+            "store_photo": "https://v2-crm.vcg.asia/uploads/member/20210511095550memberphoto.jpg",
+            "store_service_time": "3329.0000",
+            "store_slug": "gaming-shop",
+            "store_status": "1",
+            "store_status_text": "Buka",
+            "terjual": "3.00",
+            "terjual_text": "3",
+            "tingkat_keberhasilan": 100,
+            "tingkat_keberhasilan_text": "100.0",
+            "trading_description": [
+                "<ol>\r\n<li>Pilih produk dagangan yang ingin kamu beli dan lakukan checkout hingga selesai</li>\r\n<li>Lakukan pembayaran pesanan</li>\r\n<li>Penjual akan segera memproses pesanan</li>\r\n<li>Buka Steam dan klik nama Steam kamu di pojok kanan atas. Lalu pilih \"Account Details\"</li>\r\n<li>Pilih \"+ Add funds to your Steam Wallet\"</li>\r\n<li>Pilih \"Redeem a Steam Wallet Code\"</li>\r\n<li>Masukkan kode Steam Wallet yang kamu dapatkan dan klik \"Continue\"</li>\r\n<li>Klik tombol&nbsp;<strong>\"Diterima\"</strong>&nbsp;pada nomor order yang telah selesai jika kamu rasa transaksi sudah sesuai, dan jangan lupa berikan rating kepada Penjual</li>\r\n</ol>\r\n<p>&nbsp;</p>\r\n<p><strong>Peringatan:</strong>&nbsp;Jangan sekali-kali memberikan informasi login akun Steam kamu kepada siapapun, tanpa terkecuali!</p>\r\n<p>***Steam wallet USD hanya dapat diredeem pada akun Steam region US dan akses menggunakan VPN US</p>\r\n<p>***Steam wallet EUR hanya dapat diredeem pada akun Steam region negara Eropa dan akses menggunakan VPN negara Eropa</p>\r\n<p>***Kesalahan pembelian dikarenakan perbedaan region sehingga kode tidak dapat di tukarkan bukan menjadi tanggung jawab VCGamers ataupun penjual</p>"
+            ],
+            "variation_code": "",
+            "variation_discount": "0.00",
+            "variation_id": "111",
+            "variation_instant_status": "0",
+            "variation_name": "IDR 12.000",
+            "variation_price": "15500.00",
+            "variation_price_text": "15.500",
+            "variation_slug": "111",
+            "variation_status": "1",
+            "variation_stock": "0.00",
+            "variation_stock_text": "0",
+            "variation_tenmin_status": "0",
+            "variation_terjual": "3.00",
+            "variation_terjual_text": "3",
+            "variation_url": "111",
+            "weight": "0.00",
+            "weight_text": "0",
+            "width": "0.00",
+            "width_text": "0",
+            "wishlist_status": 0
+        }
+    ],
+    "status": "success"
 }
