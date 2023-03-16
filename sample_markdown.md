@@ -21,7 +21,7 @@
 
 > | http code     | content-type                      | response                                                            |
 > |---------------|-----------------------------------|---------------------------------------------------------------------|
-> | `201`         | `text/plain;charset=UTF-8`        | `Configuration created successfully`                                |
+> | `201`         | `text/plain;charset=UTF-8`        | product-search.json                              |
 > | `400`         | `application/json`                | `{"code":"400","message":"Bad Request"}`                            |
 > | `405`         | `text/html;charset=utf-8`         | None                                                                |
 
@@ -46,9 +46,9 @@
 
 ##### Responses
 
-> | http code     | content-type                      | response                                                                                      |
-> |---------------|-----------------------------------|-----------------------------------------------------------------------------------------------|
-> | `200`         | `text/plain;charset=UTF-8`        | ```{"id" : "string, unique", "name" : "string", "price" : "long", "quantity" : "integer"} ``` |
+> | http code     | content-type                      | response                              |
+> |---------------|-----------------------------------|---------------------------------------|
+> | `200`         | `text/plain;charset=UTF-8`        | [Response Json](product-search.json)  |
 
 ##### Example cURL
 
