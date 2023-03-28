@@ -1,0 +1,367 @@
+{
+    "status": true,
+    "message": "List section ditemukan. (R)",
+    "data": [
+        {
+            "id": "27",
+            "title": "Produk Populer",
+            "url": "produk-populer-27",
+            "type": "brand",
+            "link_type": "slug",
+            "description": "sub brand",
+            "status": "Aktif",
+            "banner_app": null,
+            "banner_click_app": null,
+            "banner_desktop": null,
+            "banner_click_desktop": null,
+            "detail": [
+                {
+                    "id": "835",
+                    "brand_id": "18",
+                    "brand_name": "Apex Legends",
+                    "brand_icon": "https://crm.vcgamers.io/uploads/product/20210716140650product-brand.png",
+                    "brand_slug": "apex-legends"
+                }
+            ]
+        },
+        {
+            "id": "31",
+            "title": "Banner Gercep",
+            "url": "https://app.vcgamers.io/gercep",
+            "type": "banner",
+            "link_type": "full_link",
+            "description": "Produk pilihan dengan harga termurah dari penjual dengan performa terbaik",
+            "status": "Aktif",
+            "banner_app": null,
+            "banner_click_app": null,
+            "banner_desktop": null,
+            "banner_click_desktop": null,
+            "detail": [
+                {
+                    "banner_id": "929",
+                    "banner_type_brand": "banner-gercep",
+                    "banner_desktop": "https://crm.vcgamers.io/uploads/banner/20230315103321banner-desktop.png",
+                    "banner_app": "https://crm.vcgamers.io/uploads/banner/20230315103321banner-mobile.png",
+                    "banner_link_desktop": "",
+                    "banner_link_app": "",
+                    "banner_screen_name": "Gercep",
+                    "banner_screen_value": null,
+                    "banner_screen_detail": null,
+                    "banner_screen_additional": []
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "title": "Semua Kategori",
+            "url": "semua-kategori-1",
+            "type": "category",
+            "link_type": "slug",
+            "description": "",
+            "status": "Aktif",
+            "banner_app": null,
+            "banner_click_app": null,
+            "banner_desktop": null,
+            "banner_click_desktop": null,
+            "detail": [
+                {
+                    "id": "1",
+                    "category_id": "2",
+                    "category_name": "TopUp",
+                    "category_icon": "https://crm.vcgamers.io/uploads/product/20221018110442product-brand.png",
+                    "category_slug": "topup"
+                },
+                {
+                    "id": "2",
+                    "category_id": "3",
+                    "category_name": "Voucher",
+                    "category_icon": "https://crm.vcgamers.io/uploads/product/20221018110457product-brand.png",
+                    "category_slug": "voucher"
+                }
+            ]
+        },
+        {
+            "id": "28",
+            "title": "Instant",
+            "url": "instant-28",
+            "type": "instant",
+            "link_type": "slug",
+            "description": "instant subtitle",
+            "status": "Aktif",
+            "banner_app": "https://crm.vcgamers.io/uploads/banner/20230207212535banner-mobile.png",
+            "banner_click_app": null,
+            "banner_desktop": "https://crm.vcgamers.io/uploads/banner/20221018135638banner-desktop.png",
+            "banner_click_desktop": null,
+            "detail": [
+                {
+                    "id": "2406",
+                    "category_name": "TopUp",
+                    "brand_name": "Mobile Legends",
+                    "product_name": "Starlight Member",
+                    "variation_id": "5243",
+                    "variation_slug": "starlight-member-5243",
+                    "variation_name": "Starlight Member",
+                    "variation_price": "100000.00",
+                    "variation_price_text": "100.000",
+                    "variation_discount": "0.00",
+                    "variation_stock": "49.00",
+                    "variation_stock_text": "49",
+                    "terjual": "1.00",
+                    "terjual_text": "1",
+                    "product_rating": 0,
+                    "service_time": "22 menit",
+                    "product_image": [
+                        "https://crm.vcgamers.io/uploads/product/20210821153017produk00.png"
+                    ],
+                    "store_id": "73",
+                    "store_name": "Exshop",
+                    "master_price": "163000.00",
+                    "master_price_text": "163.000",
+                    "master_percentage": 38.65,
+                    "wishlist_status": 0,
+                    "status_product_instant": "1"
+                }
+            ]
+        },
+        {
+            "id": "29",
+            "title": "Kilat",
+            "url": "kilat-29",
+            "type": "kilat",
+            "link_type": "slug",
+            "description": "kilat subtitle",
+            "status": "Aktif",
+            "banner_app": "https://crm.vcgamers.io/uploads/banner/20230119193855banner-mobile.png",
+            "banner_click_app": null,
+            "banner_desktop": "https://crm.vcgamers.io/uploads/banner/20230119193855banner-desktop.png",
+            "banner_click_desktop": null,
+            "detail": []
+        },
+        {
+            "id": "40",
+            "title": "Gercep",
+            "url": "https://app.vcgamers.io/gercep/",
+            "type": "banner",
+            "link_type": "full_link",
+            "description": "a,swkmfjhgvsnak",
+            "status": "Aktif",
+            "banner_app": null,
+            "banner_click_app": null,
+            "banner_desktop": null,
+            "banner_click_desktop": null,
+            "detail": [
+                {
+                    "banner_id": "914",
+                    "banner_type_brand": "gercep",
+                    "banner_desktop": "https://crm.vcgamers.io/uploads/banner/20230215120154banner-desktop.png",
+                    "banner_app": "https://crm.vcgamers.io/uploads/banner/20230215120154banner-mobile.png",
+                    "banner_link_desktop": "https://app.vcgamers.io/gercep/",
+                    "banner_link_app": "https://app.vcgamers.io/gercep/",
+                    "banner_screen_name": "Gercep",
+                    "banner_screen_value": "",
+                    "banner_screen_detail": "",
+                    "banner_screen_additional": []
+                }
+            ]
+        },
+        {
+            "id": "42",
+            "title": "Gercep Brand",
+            "url": "https://app.vcgamers.io/gercep/Mobile-Legends/1",
+            "type": "banner",
+            "link_type": "full_link",
+            "description": "svdknbsdb fdb",
+            "status": "Aktif",
+            "banner_app": null,
+            "banner_click_app": null,
+            "banner_desktop": null,
+            "banner_click_desktop": null,
+            "detail": [
+                {
+                    "banner_id": "915",
+                    "banner_type_brand": "gercep-brand",
+                    "banner_desktop": "https://crm.vcgamers.io/uploads/banner/20230215120243banner-desktop.png",
+                    "banner_app": "https://crm.vcgamers.io/uploads/banner/20230215120243banner-mobile.png",
+                    "banner_link_desktop": "https://app.vcgamers.io/gercep/Mobile-Legends/1",
+                    "banner_link_app": "https://app.vcgamers.io/gercep/Mobile-Legends/1",
+                    "banner_screen_name": "Gercep",
+                    "banner_screen_value": "1",
+                    "banner_screen_detail": "Mobile-Legends",
+                    "banner_screen_additional": []
+                }
+            ]
+        },
+        {
+            "id": "43",
+            "title": "Produk Aktif",
+            "url": "https://app.vcgamers.io/dagangan/steam-qwqeq-usd--10-1000-toko-123/40660",
+            "type": "banner",
+            "link_type": "full_link",
+            "description": "asedrkbjihns",
+            "status": "Aktif",
+            "banner_app": null,
+            "banner_click_app": null,
+            "banner_desktop": null,
+            "banner_click_desktop": null,
+            "detail": [
+                {
+                    "banner_id": "910",
+                    "banner_type_brand": "produk-aktif",
+                    "banner_desktop": "https://crm.vcgamers.io/uploads/banner/20230206103030banner-desktop.png",
+                    "banner_app": "https://crm.vcgamers.io/uploads/banner/20230206103030banner-mobile.png",
+                    "banner_link_desktop": "https://v2.vcg.asia/dagangan/garena-shells-lalala-garena-shells-66-shells-51000-toko-b-toko-b-toko-b-toko-b/28790",
+                    "banner_link_app": "https://v2.vcg.asia/dagangan/garena-shells-lalala-garena-shells-66-shells-51000-toko-b-toko-b-toko-b-toko-b/28790",
+                    "banner_screen_name": "ProductDetail",
+                    "banner_screen_value": "40660",
+                    "banner_screen_detail": "Steam Voucher USD $10 - Toko 123",
+                    "banner_screen_additional": []
+                }
+            ]
+        },
+        {
+            "id": "45",
+            "title": "Produk Dihapus Seller",
+            "url": "https://app.vcgamers.io/dagangan/mobile-legends-starlight-mob-leg-starlight-member-199000-toko-123/28123",
+            "type": "banner",
+            "link_type": "full_link",
+            "description": "awfesgrbfdsvdz",
+            "status": "Aktif",
+            "banner_app": null,
+            "banner_click_app": null,
+            "banner_desktop": null,
+            "banner_click_desktop": null,
+            "detail": [
+                {
+                    "banner_id": "911",
+                    "banner_type_brand": "produk-dihapus-seller",
+                    "banner_desktop": "https://crm.vcgamers.io/uploads/banner/20230206103144banner-desktop.png",
+                    "banner_app": "https://crm.vcgamers.io/uploads/banner/20230206103144banner-mobile.png",
+                    "banner_link_desktop": "https://v2.vcg.asia/dagangan/pubg-mobile-yoel-si-batak-petualang-35-uc-1500-toko-b-toko-b-toko-b-toko-b/28566",
+                    "banner_link_app": "https://v2.vcg.asia/dagangan/pubg-mobile-yoel-si-batak-petualang-35-uc-1500-toko-b-toko-b-toko-b-toko-b/28566",
+                    "banner_screen_name": "ProductDetail",
+                    "banner_screen_value": "28123",
+                    "banner_screen_detail": "Mobile Legends TopUp Starlight Member - Toko 123",
+                    "banner_screen_additional": []
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "title": "Produk Lainnya",
+            "url": "produk-lainnya-26",
+            "type": "other_product",
+            "link_type": "slug",
+            "description": "produk lainnya deskripsi",
+            "status": "Aktif",
+            "banner_app": null,
+            "banner_click_app": null,
+            "banner_desktop": null,
+            "banner_click_desktop": null,
+            "detail": []
+        },
+        {
+            "id": "38",
+            "title": "KILAT - TYPE PRODUCT",
+            "url": "https://vcgamers.com",
+            "type": "product",
+            "link_type": "full_link",
+            "description": "KILAT - TYPE PRODUCT",
+            "status": "Aktif",
+            "banner_app": "https://crm.vcgamers.io/uploads/banner/20221229140440banner-mobile.png",
+            "banner_click_app": null,
+            "banner_desktop": "https://crm.vcgamers.io/uploads/banner/20221229140440banner-desktop.png",
+            "banner_click_desktop": null,
+            "detail": [
+                {
+                    "id": "887",
+                    "category_name": "Akun",
+                    "brand_name": "Netflix",
+                    "product_name": "Akun Netplik",
+                    "variation_id": "40655",
+                    "variation_slug": "sharing-1-bulan-40655",
+                    "variation_name": "Sharing 1 Bulan",
+                    "variation_price": "20000.00",
+                    "variation_price_text": "20.000",
+                    "variation_discount": "0.00",
+                    "variation_stock": "86.00",
+                    "variation_stock_text": "86",
+                    "variation_tenmin_status": "Tidak Aktif",
+                    "terjual": "3.00",
+                    "terjual_text": "3",
+                    "product_rating": "5.000000",
+                    "service_time": "38 menit",
+                    "product_image": [
+                        "https://crm.vcgamers.io/uploads/product/20221031181039produk00.png"
+                    ],
+                    "store_id": "816",
+                    "store_name": "Toko B Toko B Toko B Toko B",
+                    "master_price": "35000.00",
+                    "master_price_text": "35.000",
+                    "master_percentage": 42.86,
+                    "wishlist_status": 0,
+                    "status_product_instant": "0",
+                    "status_product_tenmin": "0"
+                }
+            ]
+        },
+        {
+            "id": "36",
+            "title": "Product no image",
+            "url": "product-no-image-36",
+            "type": "product",
+            "link_type": "slug",
+            "description": "no image",
+            "status": "Aktif",
+            "banner_app": null,
+            "banner_click_app": null,
+            "banner_desktop": null,
+            "banner_click_desktop": null,
+            "detail": [
+                {
+                    "id": "867",
+                    "category_name": "Item & Skin",
+                    "brand_name": "Mobile Legends",
+                    "product_name": "Squad Verified Mobile Legend",
+                    "variation_id": "10166",
+                    "variation_slug": "14-hari-squad-verified-10166",
+                    "variation_name": "14 Hari Squad Verified",
+                    "variation_price": "90000.00",
+                    "variation_price_text": "90.000",
+                    "variation_discount": "0.00",
+                    "variation_stock": "998.00",
+                    "variation_stock_text": "998",
+                    "variation_tenmin_status": "Tidak Aktif",
+                    "terjual": "0.00",
+                    "terjual_text": "0",
+                    "product_rating": 0,
+                    "service_time": null,
+                    "product_image": [
+                        "https://crm.vcgamers.io/assets/img/foto-mini2.png"
+                    ],
+                    "store_id": "687",
+                    "store_name": "89store.id",
+                    "master_price": 0,
+                    "master_price_text": 0,
+                    "master_percentage": 0,
+                    "wishlist_status": 0,
+                    "status_product_instant": "0",
+                    "status_product_tenmin": "0"
+                }
+            ]
+        },
+        {
+            "id": "49",
+            "title": "Testing cuy",
+            "url": "testing-cuy-49",
+            "type": "product",
+            "link_type": "slug",
+            "description": "Tasty, delicious, easy-to-eat homemade katsu",
+            "status": "Aktif",
+            "banner_app": null,
+            "banner_click_app": null,
+            "banner_desktop": null,
+            "banner_click_desktop": null,
+            "detail": []
+        }
+    ]
+}
